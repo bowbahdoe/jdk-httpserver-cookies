@@ -1,4 +1,4 @@
-# Json support for the JDK Http Server
+# Cookie reading and writing for the JDK Http Server
 
 [![javadoc](https://javadoc.io/badge2/dev.mccue/jdk-httpserver-json/javadoc.svg)](https://javadoc.io/doc/dev.mccue/jdk-httpserver-json)
 [![Tests](https://github.com/bowbahdoe/jdk-httpserver-json/actions/workflows/test.yml/badge.svg)](https://github.com/bowbahdoe/jdk-httpserver-json/actions/workflows/test.yml)
