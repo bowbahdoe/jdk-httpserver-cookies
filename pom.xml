@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <name>jdk-httpserver-cookies</name>
-    <description>Helpers for reading and writing cookies with the JDK's built-in HTTP server.</description>
+    <description>Utilities for reading and writing cookies with the JDK's built-in HTTP server.</description>
     <url>https://github.com/bowbahdoe/jdk-httpserver-cookies</url>
 
     <developers>
